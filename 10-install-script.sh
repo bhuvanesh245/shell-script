@@ -20,7 +20,8 @@ then # not installed
     else        
         echo "Installing MySQL ... SUCCESS"
     fi
-else    echo "MySQL is already ... INSTALLED"
+else  
+      echo "MySQL is already ... INSTALLED"
 fi
 
 dnf list installed git
