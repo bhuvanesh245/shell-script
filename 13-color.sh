@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "e\[30m BHuvanesh"
+echo "e\[31m BHuvanesh"
